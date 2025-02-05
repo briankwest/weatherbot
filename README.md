@@ -43,7 +43,7 @@ To run the Weather AI Agent, set up your environment as follows:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install flask signalwire-swaig requests python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 2. Create `.env` File
